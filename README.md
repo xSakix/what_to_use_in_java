@@ -24,9 +24,16 @@
 * rabbitmq
 * activemq
 
+## search
+* elastic
+* lucene
+
 ## reactive
 * rxjava (reactive x)
 * jdk9+
+
+## actor
+* akka
 
 ## xml
 * jaxb
@@ -47,9 +54,15 @@
 * joda
 
 ## functional
-* varv
+* vavr
 
 ## utils
 * commons
+* guava
+
+## serialization
+* kryo
+
+
 
 
