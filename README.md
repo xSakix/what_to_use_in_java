@@ -22,12 +22,14 @@
 * static site generator (orchid, jbake)
 * play
 
-## services
+## services/microservices
 * spring
 * jax-rs (jersey)
 * helidon
 * vert.x
 * micronaut
+* javalin
+* light4j
 * graphql
 
 ## MQ/Event stream/..
@@ -38,6 +40,9 @@
 ## search
 * elastic
 * lucene
+
+## service coordination
+* zookeeper
 
 ## data collection
 * logstash
@@ -56,12 +61,19 @@
 * jaxb
 * dom4j
 
+## json
+* jackson
+
 ## office
 * swt (embed)
  
 ## pdf templates
 * jasper
 * fop
+
+## html templates
+* pebble
+* thymeleaf
 
 ## pdf
 * pdf box
@@ -89,9 +101,11 @@
 * netty
 * wildfly
 * glassfish
+* undertow
 
 ## fault tolerance
 * hystrix
+* Resilience4j
 
 ## image
 * twelve monkeys
@@ -106,8 +120,26 @@
 
 ## testing
 * junit
+* truth
 
 ## games
 * FXGL
+
+## memory analyzer
+* jol
+
+## workflow
+* drools
+* activiti
+
+## desktop
+# javafx
+# ulc canoo RIA Suite
+
+## AI
+* use python...
+
+## monitoring
+* jaeger
 
 
