@@ -9,6 +9,7 @@
 * jdbi
 * jtds
 * fastnate
+* jooq
 
 ## cache
 * redis
@@ -27,6 +28,7 @@
 * helidon
 * vert.x
 * micronaut
+* graphql
 
 ## MQ/Event stream/..
 * kafka
@@ -77,6 +79,7 @@
 ## utils
 * commons
 * guava
+* dagger (tiger)
 
 ## serialization
 * kryo
@@ -95,6 +98,16 @@
 
 ## build/dependecny
 * maven
+* bazel
 
+## tools
+* idea
+* error prone
+
+## testing
+* junit
+
+## games
+* FXGL
 
 
