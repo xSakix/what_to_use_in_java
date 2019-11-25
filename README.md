@@ -1,10 +1,19 @@
 # what_to_use_in_java
 
+## DB
+* ms sql
+* postgresql
+
 ## ORM/sql
 * hibernate 
 * jdbi
 * jtds
 * fastnate
+
+## cache
+* redis
+* caffein
+* ehcaceh
 
 ## web
 * spring
@@ -28,6 +37,12 @@
 * elastic
 * lucene
 
+## data collection
+* logstash
+
+## data monitoring/exploration
+* kibana
+
 ## reactive
 * rxjava (reactive x)
 * jdk9+
@@ -46,6 +61,9 @@
 * jasper
 * fop
 
+## pdf
+* pdf box
+
 ## http
 * java jdk 10-11
 * commons
@@ -63,6 +81,20 @@
 ## serialization
 * kryo
 
+## server
+* tomcat
+* netty
+* wildfly
+* glassfish
+
+## fault tolerance
+* hystrix
+
+## image
+* twelve monkeys
+
+## build/dependecny
+* maven
 
 
 
