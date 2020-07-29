@@ -133,8 +133,8 @@
 * activiti
 
 ## desktop
-# javafx
-# ulc canoo RIA Suite
+* javafx
+* ulc canoo RIA Suite
 
 ## AI
 * use python...
